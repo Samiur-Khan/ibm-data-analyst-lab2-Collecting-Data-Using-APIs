@@ -1,2 +1,2 @@
 # ibm-data-analyst-lab2-Collecting-Data-Using-APIs
-IBM Data Analyst Capstone Project Lab 2 – Practical implementation of data acquisition using REST APIs, Python requests, and JSON data processing.
+Collect and parse job postings from a public Jobs API using Python, storing results in structured formats (Excel/CSV) as part of IBM Data Analyst Lab 2.
